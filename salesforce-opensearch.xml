@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Salesforce Search</ShortName>
+    <Description>Search Salesforce for records.</Description>
+    <Url type="text/html" template="https://prodreg-stage.electronics.sony.com/_ui/search/ui/UnifiedSearchResults?searchType=2&sen=00T&q={searchTerms}"/>
+    <Image height="16" width="16" type="image/x-icon">https://prodreg-stage.electronics.sony.com/favicon.ico</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <OutputEncoding>UTF-8</OutputEncoding>
+</OpenSearchDescription>
+======================================
